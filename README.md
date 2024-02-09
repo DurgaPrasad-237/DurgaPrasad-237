@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Durga Prasad</h1>
 <h3 align="center">A passionate Full Stack developer from India</h3>
-<img src="https://media1.giphy.com/media/2IudUHdI075HL02Pkk/200.webp?cid=790b7611x29sho8tlmajref0dnk7v7931iuio9ltnmkf3bxw&ep=v1_gifs_search&rid=200.webp&ct=g" width="100%">
+<img src="https://media1.giphy.com/media/2IudUHdI075HL02Pkk/200.webp?cid=790b7611x29sho8tlmajref0dnk7v7931iuio9ltnmkf3bxw&ep=v1_gifs_search&rid=200.webp&ct=g" width="100%" height="400px">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=durgaprasad-237&label=Profile%20views&color=0e75b6&style=flat" alt="durgaprasad-237" /> </p>
 
