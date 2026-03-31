@@ -4,9 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=durgaprasad-237&label=Profile%20views&color=0e75b6&style=flat" alt="durgaprasad-237" /> </p>
 
-- 🌱 I’m currently learning **Spring Boot**
 
-- 💬 Ask me about **CoreJava,JSP,JDBC,Servlets**
 
 - 📫 How to reach me **dangetidurgaprasad237@gmail.com**
 
