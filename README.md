@@ -51,6 +51,18 @@
 
 ## 📌 Featured Projects
 
+### 💳 [Credit Card Fraud Detection](https://github.com/DurgaPrasad-237/CC-Fruad-Detection)
+> A machine learning system to detect fraudulent credit card transactions from 1.29M real-world records 
+
+- Analyzed 1.29M+ credit card transactions to identify fraudulent patterns across amount, location, category, age group, and transaction
+time
+- Engineered temporal, demographic, geographic, and transaction-based features while handling extreme class imbalance using SMOTE
+- Built and evaluated 7 ML models including Logistic Regression, Random Forest, and XGBoost using F1-score, ROC-AUC, precision,
+and recall
+- Achieved 0.983 ROC-AUC with XGBoost and estimated $402K monthly fraud savings through cost-benefit analysis
+
+`Python` `XGBoost` `Scikit-learn` `Streamlit` `Pandas` `NumPy`
+
 ### 🏏 [Cricket Match Prediction System](https://iplprediction-dp.streamlit.app/)
 > End-to-end ML system for predicting IPL match outcomes — pre-match & live (post 2nd innings)
 
