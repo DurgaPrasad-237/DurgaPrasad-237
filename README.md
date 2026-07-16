@@ -1,6 +1,6 @@
 # Hi, I'm Durga Prasad 👋
 
-**Data Scientist / ML Engineer** · Hyderabad, India
+**Data Analyst /Data Scientist / ML Engineer** · Hyderabad, India
 
 > Python developer turned data enthusiast. I build ML pipelines, explore messy datasets,
 > and ship interactive dashboards. Currently deepening ML expertise through **upGrad × IIIT Bangalore**.
